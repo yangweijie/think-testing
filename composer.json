@@ -1,18 +1,17 @@
 {
-    "name": "topthink/think-testing",
+    "name": "yangweijie/think-testing",
     "license": "Apache-2.0",
     "type": "think-testing",
     "authors": [
         {
-            "name": "yunwuxin",
-            "email": "448901948@qq.com"
+            "name": "yangweijie",
+            "email": "917647288@qq.com"
         }
     ],
     "require": {
         "topthink/think-installer": "~1.0",
         "topthink/think-helper": "~1.0",
-        "phpunit/phpunit": "^4.8.26",
-        "symfony/dom-crawler": "^2.8.8"
+        "phpunit/phpunit": "^5.6",
     },
     "autoload": {
         "psr-4": {
